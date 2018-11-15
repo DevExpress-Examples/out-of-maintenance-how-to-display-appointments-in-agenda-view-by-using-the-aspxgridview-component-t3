@@ -1,3 +1,18 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AgendaViewControl.ascx](./CS/AgendaView/Agenda/AgendaViewControl.ascx) (VB: [AgendaViewControl.ascx](./VB/AgendaView/Agenda/AgendaViewControl.ascx))
+* [AgendaViewControl.ascx.cs](./CS/AgendaView/Agenda/AgendaViewControl.ascx.cs) (VB: [AgendaViewControl.ascx](./VB/AgendaView/Agenda/AgendaViewControl.ascx))
+* [AgendaViewDataGenerator.cs](./CS/AgendaView/Agenda/AgendaViewDataGenerator.cs) (VB: [AgendaViewDataGenerator.vb](./VB/AgendaView/Agenda/AgendaViewDataGenerator.vb))
+* [ContextMenuHelper.cs](./CS/AgendaView/Agenda/ContextMenuHelper.cs) (VB: [ContextMenuHelper.vb](./VB/AgendaView/Agenda/ContextMenuHelper.vb))
+* [AgendaViewDataGenerator.cs](./CS/AgendaView/AgendaViewDataGenerator.cs)
+* [CustomObjects.cs](./CS/AgendaView/Data/CustomObjects.cs) (VB: [CustomObjects.vb](./VB/AgendaView/Data/CustomObjects.vb))
+* [DataHelper.cs](./CS/AgendaView/Data/DataHelper.cs) (VB: [DataHelper.vb](./VB/AgendaView/Data/DataHelper.vb))
+* [Default.aspx](./CS/AgendaView/Default.aspx) (VB: [Default.aspx.vb](./VB/AgendaView/Default.aspx.vb))
+* [Default.aspx.cs](./CS/AgendaView/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/AgendaView/Default.aspx.vb))
+* [Global.asax](./CS/AgendaView/Global.asax) (VB: [Global.asax.vb](./VB/AgendaView/Global.asax.vb))
+* [Global.asax.cs](./CS/AgendaView/Global.asax.cs) (VB: [Global.asax.vb](./VB/AgendaView/Global.asax.vb))
+<!-- default file list end -->
 # How to display appointments in Agenda View by using the ASPxGridView component 
 
 
