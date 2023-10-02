@@ -1,1 +1,0 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="AgendaView.Global_asax" Language="vb" %>
